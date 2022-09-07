@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>425942494131-g0vgofkjloa8ikahnq6r3882i2vrm04l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.425942494131-g0vgofkjloa8ikahnq6r3882i2vrm04l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCmQ7POp4V3niYwiP7RWCr0ersLytaCkG8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>425942494131</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>personal.FirebaseNotificationsTraining</string>
+	<key>PROJECT_ID</key>
+	<string>fir-notificationtraining</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-notificationtraining.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:425942494131:ios:b6dd760632ae0c970d39c6</string>
+</dict>
+</plist>
